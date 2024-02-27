@@ -54,6 +54,8 @@ public class AppTest1
 	{
 		System.out.println("teardown");
 		service=null;
+		System.out.println("gii");
 	}
 
+	
 }
