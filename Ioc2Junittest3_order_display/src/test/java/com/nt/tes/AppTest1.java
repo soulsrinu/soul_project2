@@ -55,6 +55,7 @@ public class AppTest1
 		System.out.println("teardown");
 		service=null;
 		System.out.println("hii");
+		System.out.println("how r u ");
 		
 	}
 
